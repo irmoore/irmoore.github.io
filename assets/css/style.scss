@@ -1,0 +1,48 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Force all structural wrappers to expand fully and center */
+#wrapper, #container, .inner {
+  max-width: 1150px !important; 
+  width: 100% !important;
+  margin: 0 auto !important;
+  box-sizing: border-box;
+}
+
+/* Ensure header text adjustments dynamically fill the wider banner space */
+header .inner {
+  padding: 20px 0 !important;
+}
+
+/* Let the main page elements stretch fully into the newly claimed real estate */
+#main_content {
+  width: 100% !important;
+}
+
+/* Styling for the social profile buttons */
+.social-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%; /* Makes the button perfectly circular */
+  transition: transform 0.2s ease, filter 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+/* Brand specific background colors */
+.github-btn {
+  background-color: #24292e; /* GitHub Dark Gray */
+}
+
+.scholar-btn {
+  background-color: #4285f4; /* Google Scholar Blue */
+}
+
+/* Subtle hover effect to show they are interactive */
+.social-button:hover {
+  transform: scale(1.08); /* Grows slightly */
+  filter: brightness(1.15); /* Lightens up a bit */
+}
