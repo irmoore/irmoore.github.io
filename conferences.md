@@ -6,9 +6,9 @@ title: Ian Moore
 <p align="center">
   <a href="./index.html">Home</a> | 
   <a href="./research.html">Research</a> | 
-  <a href="./conferences.html">Conferences</a> | 
+  <strong>Conferences<strong> | 
   <a href="./teaching.html">Teaching</a> | 
-  <strong>Contact</strong>
+  <a href="./contact.html">Contact</a>
 </p>
 
 
