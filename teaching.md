@@ -19,6 +19,8 @@ title: Ian Moore
 
 * **TBD** <span style="float: right; color: #666; font-size: 0.9em;">Upcoming / Fall 2026</span>  
 
+---
+
 <div style="clear: both; margin-bottom: 25px;"></div>
 
 ## Virginia Tech <span style="float: right; font-weight: normal; font-size: 0.85em; color: #555;">2021–2026</span>

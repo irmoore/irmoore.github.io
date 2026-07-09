@@ -15,7 +15,7 @@ title: Ian Moore
 
 # Research
 
-My research is broadly in scientific computing, with particular application to reduced order modeling (particularly of fluids), data-driven modeling (including scientific machine learning), numerical analysis and domain decomposition. My work fixes problems with stability and extensisibility of typical reduced order models. 
+My research is broadly in scientific computing, with specific application to reduced order modeling (particularly of fluids), data-driven modeling (including scientific machine learning), numerical analysis and domain decomposition. My work addresses problems with stability and extensisibility of typical reduced order models. 
 
 # Publications
 
